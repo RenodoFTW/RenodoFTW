@@ -11,6 +11,8 @@ There's nothing here for you.
 
 <img src="Komi_Profile.jpg">
 
+<img src="Komi_Profile.jpg">
+
 
 
 
