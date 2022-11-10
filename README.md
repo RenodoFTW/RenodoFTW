@@ -4,6 +4,12 @@ Go away.
 
 There's nothing here for you.
 
+<a href="http://www.github.com/RenodoFTW"><img src="https://github-readme-stats.vercel.app/api?username=RenodoFTW&show_icons=true&theme=tokyonight&count_private=true&custom_title=Github%20Stats" alt="GitHub Stats" /></a>
+
+
+<a href="http://www.github.com/RenodoFTW"><img src="https://activity-graph.herokuapp.com/graph?username=RenodoFTW&theme=tokyo-night&custom_title=GitHub%20Commits%20Graph&count_private=true" alt="GitHub Commits Graph" /></a>
+
+
 
 
 
