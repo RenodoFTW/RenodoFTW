@@ -11,7 +11,7 @@ There's nothing here for you.
 
 <img src="Komi_Profile.jpg">
 
-<img src="Komi_Profile.jpg">
+<img src="(https://github.com/RenodoFTW/RenodoFTW/blob/main/RDT_20221103_08344459664604800191636(1).jpg)">
 
 
 
