@@ -9,7 +9,7 @@ There's nothing here for you.
 
 <a href="http://www.github.com/RenodoFTW"><img src="https://activity-graph.herokuapp.com/graph?username=RenodoFTW&theme=tokyo-night&custom_title=GitHub%20Commits%20Graph&count_private=true" alt="GitHub Commits Graph" /></a>
 
-![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
+<img src="https://github.com/favicon.ico" height="240" width="480">
 
 
 
